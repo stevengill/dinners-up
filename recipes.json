@@ -1,4 +1,8 @@
 {
-	"spaghetti": ["pasta", "sauce"],
-	"stirfry": ["onions", "peppers", "broccoli", "mushrooms", "carrots", "green onions", "soy sauce", "hoisin sauce"]
+	"Spaghetti": ["pasta", "sauce"],
+	"Stirfry": ["onions", "peppers", "broccoli", "mushrooms", "carrots", "green onions", "soy sauce", "hoisin sauce"],
+	"Greek Salad": ["red onion", "tomatoes", "cucumbers", "green pepper", "feta", "olives", "viniagrette dressing"],
+	"Fried Rice": ["steamed rice", "eggs", "carrots", "red pepper", "green onions", "mushrooms", "peas", "red chili flakes"],
+	"Ramen": ["ramen noodle mix", "eggs", "assorted vegetables"],
+	"Daal": ["lentils", "onions", "rice", "garlic", "tumeric", "cayan pepper", "cumin", "salt & pepper"]
 }
