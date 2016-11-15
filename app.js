@@ -7,7 +7,17 @@ var recipeNames = Object.keys(recipes);
 
 var index = [Math.floor(Math.random() * recipeNames.length)];
 console.log(recipeNames[index] + ': ' + recipes[recipeNames[index]]);
-
+return recipeNames[index] + ': ' + recipes[recipeNames[index]];
 }
 
 pickDinner();
+
+function printDinner() {
+    var output = pickDinner();
+
+    console.log(output);
+}
+
+var button = document.getElementById('pick');
+button.addEventListener("click", printDinner, false);
+

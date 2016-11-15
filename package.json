@@ -1,0 +1,23 @@
+{
+  "name": "dinners-up",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "browserify": "browserify app.js > bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevengill/dinners-up.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevengill/dinners-up/issues"
+  },
+  "homepage": "https://github.com/stevengill/dinners-up#readme",
+  "dependencies": {
+    "browserify": "^13.1.0"
+  }
+}
